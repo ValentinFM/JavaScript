@@ -7,6 +7,7 @@ Modifica el código para que la calculadora pueda operar con cualquier cantidad 
 */
 //const = una constante
 //let = una variable
+//Alumnos: Fabá Mizrahi Valentín, Rojo Facundo
 
 const prompt = require('prompt-sync')();
 let Num1 = prompt('Digite un numero: ');
